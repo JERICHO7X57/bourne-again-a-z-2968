@@ -1,0 +1,16 @@
+<li  class="menu-item menu-item-type-post_type menu-item-object-page drop_to_right standard"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=961"><span>Progetti</span></a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children drop_to_right standard"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=77"><span>News</span></a>
+<ul class="sub-menu" >
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=1251">Colloquia Mediterranea</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=1243">Pubblicazioni</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=1321">Convegni e conferenze</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=10852">Veritas in caritate</a>
+	<ul class="sub-menu" >
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=1394">Anno 2017</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=9228">Anno 2016</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=7191">Anno 2015</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=5317">Anno 2014</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=2016">Anno 2013</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.fondazionegiovannipaolo2.org/?page_id=2012">Anno 2012</a></li>
+	</ul>
+</li>
